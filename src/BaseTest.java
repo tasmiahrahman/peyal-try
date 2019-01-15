@@ -71,5 +71,6 @@ public class BaseTest {
 	@Test
 	public void m7() {
 		System.out.println("Test2 Method 7");
+		
 	}
 }
